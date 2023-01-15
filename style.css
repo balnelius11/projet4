@@ -244,9 +244,12 @@ body {
     .nav > li {
     float:left;
     margin-top:4px;
-    font-size:16px
+    font-size:16px;
+    margin-right: 25px;
+    text-decoration: none;
     }
     
+   
     .navbar-nav .open .dropdown-menu > li > a {
     text-align:inherit
     }
@@ -283,18 +286,20 @@ body {
     .site-navigation {
     position:absolute;
     top:50%;
-    right:20px;
+    right:10vw;
     transform:translate(0,-50%);
-    -webkit-transform:translateY(-50%)
+    -webkit-transform:translateY(-50%);
+    text-decoration:none;
     }
     
     .nav > li .dropdown-menu a,.nav > li .dropdown-menu a:hover {
-    color:#484848
+    color:#484848;
+    margin-right:200px;
     }
     
     .nav-invert .site-navigation {
     left:0;
-    right:0
+    right:15vw;
     }
     
     .nav-center {
@@ -305,7 +310,7 @@ body {
     width:100%
     }
     
-    .nav-center .navbar-header,.nav-center .navbar-brand,.nav-center .nav > li {
+    .nav-center .navbar-header,.nav-center .navbar-brand,.nav-center {
     float:none;
     display:inline-block
     }
@@ -836,7 +841,8 @@ body {
     background:rgba(0,0,0,.05);
     text-align:left;
     padding-left:15px;
-    width:100%
+    width:100%;
+    margin-right:15vw;
     }
     
     .nav > li:hover {
@@ -870,10 +876,10 @@ body {
     }
     
     .navbar-collapse {
-    padding:0;
+    padding: 0;
     overflow-x:hidden;
     -webkit-box-shadow:none;
-    box-shadow:none
+    box-shadow:none;
     }
     
     .navbar-brand img {
