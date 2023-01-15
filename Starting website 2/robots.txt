@@ -1,0 +1,7 @@
+User agent: *
+Allow /index.html
+Disallow /js/
+Disallow /includes/
+Disallow /img/
+Disallow /fonts/
+Disallow /css/

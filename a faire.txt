@@ -1,0 +1,8 @@
+google analytics
+mettre une emphase sur les mots clé
+changer images en png
+supprimer les textes en image
+parametrer le cache htaccess
+améliorer le contraste 
+controler sur gtmetrix
+controler sur lighthouse
