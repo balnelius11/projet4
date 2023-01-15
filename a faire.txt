@@ -1,6 +1,5 @@
 google analytics
-mettre une emphase sur les mots clé
-changer images en png
+Segmenter les sections avec des H2
 supprimer les textes en image
 parametrer le cache htaccess
 améliorer le contraste 
