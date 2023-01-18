@@ -497,6 +497,9 @@ body {
     max-height:90vh;
     margin:0 auto
     }
+    .blue{
+        color: blue !important;
+    }
     
     .lightbox-caption {
     padding:20px;
@@ -611,7 +614,7 @@ body {
     
     .social {
     max-width:400px;
-    margin:auto
+    margin:auto;
     }
     
     h2 {
@@ -692,7 +695,7 @@ body {
     
     .btn-atomic-tangerine {
     background:#F3976C;
-    color:#FFF!important
+    color:white !important
     }
     
     .btn-atomic-tangerine:hover {
