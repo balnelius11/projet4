@@ -498,7 +498,7 @@ body {
     margin:0 auto
     }
     .blue{
-        color: blue !important;
+        color: black !important;
     }
     
     .lightbox-caption {
@@ -695,7 +695,7 @@ body {
     
     .btn-atomic-tangerine {
     background:#F3976C;
-    color:white !important
+    color:black !important
     }
     
     .btn-atomic-tangerine:hover {
