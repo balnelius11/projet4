@@ -906,7 +906,8 @@ body {
     }
     
     .bloc-xxl,.bloc-xl,.bloc-lg {
-    padding:40px 0
+    padding:40px 0;
+    max-width:80vw;
     }
     
     .bloc-sm,.bloc-md {
