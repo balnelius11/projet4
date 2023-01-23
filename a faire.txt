@@ -1,7 +1,0 @@
-google analytics
-Segmenter les sections avec des H2
-supprimer les textes en image
-parametrer le cache htaccess
-améliorer le contraste 
-controler sur gtmetrix
-controler sur lighthouse
