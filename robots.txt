@@ -1,5 +1,6 @@
 User agent: *
 Allow /index.html
+Allow /contact.html
 Disallow /js/
 Disallow /includes/
 Disallow /img/
